@@ -24,7 +24,7 @@
 // Al parecer nos estamos olvidando de algo
     export default {
         name: "TeamCard",
-        props: ['member']
+        props: ['member'] /*nombre del objeto que recibe*/
     }
 </script>
 
